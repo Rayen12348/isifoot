@@ -20,18 +20,18 @@ Built with **React Native** + **TypeScript**
 
 ```
 ISIFOOT/
-├── App.tsx                    # Root orchestrator (state + routing)
+├── App.tsx                    
 └── src/
-    ├── types/                 # TypeScript interfaces & types
-    ├── constants/             # Colors, mock data, nav items
-    ├── utils/                 # Helpers (formatDate, etc.)
-    ├── styles/                # Global StyleSheet
-    ├── components/            # Reusable UI components
+    ├── types/                 
+    ├── constants/             
+    ├── utils/                 
+    ├── styles/                
+    ├── components/            
     │   ├── GreenButton.tsx
     │   ├── OutlineButton.tsx
     │   ├── Field.tsx
     │   └── BottomNav.tsx
-    └── screens/               # One file per screen
+    └── screens/               
         ├── HomeScreen.tsx
         ├── LoginScreen.tsx
         ├── RegisterScreen.tsx
