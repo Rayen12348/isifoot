@@ -2,7 +2,7 @@
 
 > Football pitch reservation app for ISIMA Mahdia students.
 
-Built with **React Native** + **TypeScript**.
+Built with **React Native** + **TypeScript**
 
 ---
 
