@@ -56,11 +56,6 @@ npx react-native start
 # Run on Android
 npx react-native run-android
 
-# Run on iOS
-npx react-native run-ios
-```
-
----
 
 ## Tech Stack
 
@@ -74,4 +69,4 @@ npx react-native run-ios
 
 ## Author
 
-Made with ❤️ at ISIMA Mahdia
+Made with ❤️ at ISIMA Mahdia By Dhia Eddine Bejaoui && Rayen Ben Maaoui
